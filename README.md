@@ -67,9 +67,9 @@ portfolio-website/
 
 ---
 
-**Created by**: Mahendra Pramudita Jati
-**Purpose**: Professional portfolio and university application showcase
-**Technologies**: HTML5, CSS3, JavaScript, Responsive Design
+- **Created by**: Mahendra Pramudita Jati
+- **Purpose**: Professional portfolio and university application showcase
+- **Technologies**: HTML5, CSS3, JavaScript, Responsive Design
 
 ---
 
