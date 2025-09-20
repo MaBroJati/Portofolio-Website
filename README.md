@@ -68,6 +68,8 @@ portfolio-website/
 ---
 
 **Created by**: Mahendra Pramudita Jati
+**Purpose**: Professional portfolio and university application showcase
+**Technologies**: HTML5, CSS3, JavaScript, Responsive Design
 
 ---
 
@@ -75,5 +77,4 @@ portfolio-website/
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
-**Purpose**: Professional portfolio and university application showcase
-**Technologies**: HTML5, CSS3, JavaScript, Responsive Design
+
